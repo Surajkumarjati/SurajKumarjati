@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/suraj-kumar-jati-a676b41a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/suraj-kumar-jati-a676b41a7" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/suraj-kumar-jati-a676b41a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/suraj-kumar-jati-a676b41a7" height="30" width="40" /></a>
 <a href="https://fb.com/kumar suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kumar suraj" height="30" width="40" /></a>
 <a href="https://instagram.com/kumar_suraj3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumar_suraj3" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/code with suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with suraj" height="30" width="40" /></a>
