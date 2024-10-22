@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvvczHoNxQyEpM8EevIUsSknsPu9lvdZaNQ&s" width="100%" alt="MasterHead">](#)
+[<img src="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png" width="100%" alt="MasterHead">](#)
 
 
 
