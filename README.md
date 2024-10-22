@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvvczHoNxQyEpM8EevIUsSknsPu9lvdZaNQ&s)](#)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvvczHoNxQyEpM8EevIUsSknsPu9lvdZaNQ&s" width="100%" alt="MasterHead">](#)
+
 
 
 <h1 align="center">Hi 👋, I'm Suraj Kumar Jati</h1>
